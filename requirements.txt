@@ -8,4 +8,4 @@ yfinance
 forex-python
 matplotlib
 scikit-learn
-statsmodels.api
+statsmodels
