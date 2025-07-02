@@ -1,6 +1,5 @@
 pandas
 plotly
-sqlite3
 datetime
 calendar
 numpy
