@@ -1,7 +1,6 @@
 pandas
 plotly
 datetime
-calendar
 numpy
 streamlit-aggrid
 tempfile
