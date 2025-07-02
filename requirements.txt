@@ -4,7 +4,6 @@ datetime
 numpy
 streamlit-aggrid
 Pillow
-time
 yfinance
 forex-python
 matplotlib
