@@ -3,7 +3,6 @@ plotly
 datetime
 numpy
 streamlit-aggrid
-io
 Pillow
 time
 yfinance
