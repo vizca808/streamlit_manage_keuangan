@@ -3,7 +3,6 @@ plotly
 datetime
 numpy
 streamlit-aggrid
-tempfile
 io
 Pillow
 time
