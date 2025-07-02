@@ -1,0 +1,16 @@
+pandas
+plotly
+sqlite3
+datetime
+calendar
+numpy
+streamlit-aggrid
+tempfile
+io
+Pillow
+time
+yfinance
+forex-python
+matplotlib
+scikit-learn
+statsmodels.api
